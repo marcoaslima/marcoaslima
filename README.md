@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub 👋
 
 - 🔭 I’m currently working on [T2S](https://www.t2s.com.br) (Software for the port industry) and my current projet [MarckDX Labs](https://marckdx.com/en/labs.html)
 - 🌱 I’m currently learning Entity Core, .Net Core and React Native
