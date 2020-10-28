@@ -1,6 +1,6 @@
 ### Hi there, welcome to my GitHub 👋
 
-- 🔭 I’m currently working at [T2S](https://www.t2s.com.br/) and my current personal project is [MarckDX Labs](https://marckdx.com/)
+- 🔭 I’m currently working at [T2S](https://www.t2s.com.br/)
 - 🌱 I’m currently learning Entity Core, .Net Core and React Native
 - 👯 I’m looking to collaborate on open projects using the technologies I am not confortable with
 - 💬 Ask me about anything really
