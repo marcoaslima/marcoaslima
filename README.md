@@ -8,3 +8,12 @@
 - 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
 
 Looking foward to work with you on open projects!
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
