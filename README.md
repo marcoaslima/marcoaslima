@@ -9,6 +9,9 @@
 
 Looking foward to work with you on open projects!
 
-
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=buefy" />
-       <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=buefy"/>
+<center>
+        <table>
+                <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=buefy" /></td>
+                <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=buefy"/></td>
+        </table>
+ </center>
