@@ -1,4 +1,5 @@
 ### Hi there, welcome to my GitHub 👋
+---
 
 - 🔭 I’m currently working at [T2S](https://www.t2s.com.br/)
 - 🌱 I’m currently learning Entity Core, .Net Core and React Native
@@ -9,6 +10,7 @@
 
 Looking foward to work with you on open projects!
 
+---
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=buefy" />
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=buefy"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=buefy&hide_border=true" />
+<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=buefy&hide_border=true"/>
