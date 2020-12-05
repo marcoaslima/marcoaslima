@@ -31,7 +31,5 @@ Looking foward to work with you on open projects!
 
 
 
----
-
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=dracula&hide_border=true&count_private=true" />
-<img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=dracula&hide_border=true&count_private=true"/>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=dracula&hide_border=true&count_private=true"/>
