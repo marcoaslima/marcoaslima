@@ -5,19 +5,17 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marckdx/)](https://www.linkedin.com/in/marckdx/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mdxme)](https://twitter.com/mdxme)
 
----
 - 🔭 I’m currently working on starting my own business
 - 🌱 I’m currently learning Entity Core, .Net Core and React Native
 - 👯 I’m looking to collaborate on open projects using the technologies I am not confortable with
 - 💬 Ask me about anything really
 - 📫 How to reach me: marco@symatter.com
 - 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
-
 - [Website](https://marckdx.com/) 💻 - Working on it.
 
 Looking foward to work with you on open projects!
 
-Favorite frameworks and tools
+<br>
 <br>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
