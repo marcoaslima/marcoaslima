@@ -15,7 +15,7 @@
 
 Looking foward to work with you on open projects!
 
-&nbsp;
+<!--&nbsp;
 <br>
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -28,8 +28,7 @@ Looking foward to work with you on open projects!
 <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+-->
 
-
-<!--
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=dracula&hide_border=true&count_private=true" />
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=dracula&hide_border=true&count_private=true"/>-->
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=dracula&hide_border=true&count_private=true"/>
