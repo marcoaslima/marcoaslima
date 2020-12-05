@@ -5,8 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marckdx/)](https://www.linkedin.com/in/marckdx/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mdxme)](https://twitter.com/mdxme)
 
-I'm a { backend, frontend and mobile } developer [@t2s](https://www.t2s.com.br/).
-
+---
 - 🔭 I’m currently working on starting my own business
 - 🌱 I’m currently learning Entity Core, .Net Core and React Native
 - 👯 I’m looking to collaborate on open projects using the technologies I am not confortable with
