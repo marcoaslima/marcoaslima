@@ -1,12 +1,21 @@
-### Hi there, welcome to my GitHub 👋
+### Hi there, name's Marco, welcome to my GitHub 👋
 ---
 
-- 🔭 I’m currently working at [T2S](https://www.t2s.com.br/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/fagnerpsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
+
+I'm a { backend, frontend and mobile } developer [@t2s](https://www.treinaweb.com.br/).
+
+- 🔭 I’m currently working on starting my own business
 - 🌱 I’m currently learning Entity Core, .Net Core and React Native
 - 👯 I’m looking to collaborate on open projects using the technologies I am not confortable with
 - 💬 Ask me about anything really
-- 📫 How to reach me: marco@symatter.com or by my website [marckdx.com](https://marckdx.com/en/about.html?utm_source=github&utm_medium=marckdx&utm_campaign=me) contact form.
+- 📫 How to reach me: marco@symatter.com
 - 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
+
+- [Website](https://marckdx.com/) 💻 - Working on it.
 
 Looking foward to work with you on open projects!
 
