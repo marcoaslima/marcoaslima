@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning Entity Core, .Net Core and React Native
 - 👯 I’m looking to collaborate on open projects using the technologies I am not confortable with
 - 💬 Ask me about anything really
-- 📫 How to reach me: marco@symatter.com
+- 📫 How to reach me: me@marcolima.com.br
 - 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
-- [Website](https://marcoavida.com/) 💻 - Working on it.
+- [Website](https://marcolima.com.br/) 💻 - Working on it.
 
 Looking foward to work with you on open projects!
 
