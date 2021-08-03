@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Entity Core, .Net Core and React Native
 - 👯 I’m looking to collaborate on open projects using the technologies I am not confortable with
 - 💬 Ask me about anything really
-- 📫 How to reach me: marckdx@outlook.com
+- 📫 How to reach me: contato@marcolima.com.br
 - 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
 - [Website](https://marcolima.com.br/) 💻 - Working on it.
 
