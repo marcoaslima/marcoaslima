@@ -7,9 +7,13 @@
 <a href="https://instagram.com/marckdx"><img src="https://img.shields.io/badge/-@marckdx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/marckdx"><img src="https://img.shields.io/badge/-@marckdx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
- ### 👨🏻‍💻 &nbsp;A Little bit About Me
+ ### 👨🏻‍💻 &nbsp;A Little bit About Myself
+ 
+
   
 ### 🛠 &nbsp;Tech Stack
+
+Here are some technologies I worked with on the past few years:
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
@@ -23,6 +27,8 @@
 
   
   ### ⚙️&nbsp;Some stats
+
+These are not very accurate, but they gave you a good ideia on the langs I like to develop the most.
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=light&hide_border=true&count_private=true" />
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=light&hide_border=true&count_private=true"/>
