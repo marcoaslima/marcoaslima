@@ -9,9 +9,13 @@
 
  ### 👨🏻‍💻 &nbsp;A Little bit About Me
   
+### 🛠 &nbsp;Tech Stack
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
   
-  ### 🛠 &nbsp;Some stats
+  ### ⚙️&nbsp;Some stats
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=light&hide_border=true&count_private=true" />
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=light&hide_border=true&count_private=true"/>
