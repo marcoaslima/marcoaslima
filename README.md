@@ -1,4 +1,4 @@
-### Hi there, name's Marco, welcome to my GitHub 👋
+### Hello everbody, welcome to my corner of the GitHub 👋
 ---
 
 <a href="https://www.symatter.com"><img src="https://img.shields.io/badge/-symatter.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
