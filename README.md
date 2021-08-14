@@ -14,7 +14,7 @@
 - 💬 Ask me about anything really
 - 📫 How to reach me: marco@symatter.com
 - 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
-- Website [marckdx.com](https://marckdx.com/) 💻 - Working on it.
+- Website [marckdx.com](https://marckdx.com/) 💻.
 
   
 ### 🛠 &nbsp;Tech Stack
