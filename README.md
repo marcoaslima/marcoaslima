@@ -32,9 +32,3 @@ Here are some technologies I worked with on the past few years:
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=F72C1F)&nbsp;
 
   
-  ### ⚙️&nbsp;Some stats
-
-These are not very accurate, but they gave you a good ideia on the langs I like to develop the most.
-
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marckdx&hide=html&layout=compact&theme=light&hide_border=true&count_private=true" />
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marckdx&theme=light&hide_border=true&count_private=true"/>
