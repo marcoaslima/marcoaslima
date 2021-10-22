@@ -1,20 +1,20 @@
 ### Hello everbody, welcome to my corner of the GitHub 👋
 ---
 
-<a href="https://www.marckdx.com"><img src="https://img.shields.io/badge/-marckdx.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/marckdx"><img src="https://img.shields.io/badge/-Marco%20Aurélio-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:marco@symatter.com"><img src="https://img.shields.io/badge/-marco@symatter.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!--<a href="https://instagram.com/marckdx"><img src="https://img.shields.io/badge/-@marckdx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
-<!--<a href="https://facebook.com/marckdx"><img src="https://img.shields.io/badge/-@marckdx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>-->
+<a href="https://www.marcoaslima.com"><img src="https://img.shields.io/badge/-marckdx.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/marcoaslima"><img src="https://img.shields.io/badge/-Marco%20Aurélio-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:contato@marcoaslima.com"><img src="https://img.shields.io/badge/-marco@symatter.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!--<a href="https://instagram.com/soumarcoaslima"><img src="https://img.shields.io/badge/-@marckdx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
+<!--<a href="https://facebook.com/soumarcoaslima"><img src="https://img.shields.io/badge/-@marckdx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>-->
 
  ### 👨🏻‍💻 &nbsp;A Little bit About Myself
  
  - 🌱 I’m currently learning Entity Core, .Net Core and React Native
 - 👯 I’m looking to collaborate on open projects using the technologies I am not confortable with
 - 💬 Ask me about anything really
-- 📫 How to reach me: marco@symatter.com
+- 📫 How to reach me: contato@marcoaslima.com
 - 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
-- Website [marckdx.com](https://marckdx.com/) 💻.
+- Website [marckdx.com](https://marcoaslima.com/) 💻.
 
   
 ### 🛠 &nbsp;Tech Stack
