@@ -14,7 +14,7 @@
 - 💬 Ask me about anything really
 - 📫 How to reach me: contato@marcoaslima.com
 - 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
-- Website [marckdx.com](https://marcoaslima.com/) 💻.
+- Website [marcoaslima.com](https://marcoaslima.com/) 💻.
 
   
 ### 🛠 &nbsp;Tech Stack
