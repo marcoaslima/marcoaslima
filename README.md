@@ -11,24 +11,41 @@ Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-<!-- ## &#x1f4c8; GitHub Stats
+<img align="left" src="assets/linux.svg" alt="linux" height="42px" style="max-width: 42px; padding: 10px;"/>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+<img align="left" src="assets/visual-studio-code.svg" alt="visual-studio-code" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/visualstudio.svg" alt="visualstudio" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/csharp.svg" alt="csharp" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/laravel.svg" alt="laravel" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/github.svg" alt="github" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/rabbitmq.svg" alt="rabbitmq" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/javascript.svg" alt="javascript" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/typescript.svg" alt="typescript" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/redis.svg" alt="redis" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<img align="left" src="assets/postgresql.svg" alt="postgresql" height="42px" style="max-width: 42px; padding: 10px;"/>
+
+<br>
+<br>
+
+ ## GitHub Stats
+
+<a href="https://github.com/marcoaslima/marcoaslima">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaslima&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a> -->
+<a href="https://github.com/marcoaslima/marcoaslima">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcoaslima&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> 
 
 ## 🏆 GitHub Trophies
 
