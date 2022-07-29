@@ -1,32 +1,46 @@
-### Hello everbody, welcome to my corner of the GitHub 👋
----
+# Hi I'm Marco 👋
 
-<a href="https://www.marcoaslima.com"><img src="https://img.shields.io/badge/-marcoaslima.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/marcoaslima"><img src="https://img.shields.io/badge/-Marco%20Aurélio-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:marco@proxfield.com"><img src="https://img.shields.io/badge/-marco@proxfield.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+[![Linkedin Badge](https://img.shields.io/badge/-marcoaslima-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaslima/)](https://www.linkedin.com/in/marcoaslima/)
+[![Medium Badge](https://img.shields.io/badge/-@marcoaslima-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@marcoaslima)](https://medium.com/@marcoaslima)
+[![Website Badge](https://img.shields.io/badge/-marcoaslima.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://marcoaslima.com)](https://marcoaslima.com)
+[![Twitter Badge](https://img.shields.io/badge/-@marcoaslima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
+[![Instagram Badge](https://img.shields.io/badge/-@marcoaslima-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/marcoaslima)
+[![Gmail Badge](https://img.shields.io/badge/-marcoaslima-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marco@proxfield.com)](mailto:marco@proxfield.com)
 
- ### 👨🏻‍💻 &nbsp;A Little bit About Myself
- 
- - 🌱 I’m currently learning Entity Core, .Net Core and React Native
-- 👯 I’m looking to collaborate on open projects using the technologies I am not confortable with
-- 💬 Ask me about anything really
-- 📫 How to reach me: marco.lima42@outlook.com
-- 😃 Fun facts: 🐱 cat owner, 🍃 vegetarian since 2014 and 💻 developer since 2010
-- Website [marcoaslima.com](https://marcoaslima.com/) 💻.
+Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com/proxfield), from Brazil. I am current working on @mcdcorp, and have previously developed for @SomosEducacao, @BTP, @WilsonSons. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/marcoaslima/)!
 
-  
-### 🛠 &nbsp;Tech Stack
+## 🔧 Technologies & Tools
 
-Here are some technologies I worked with on the past few years:
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=rabbitmq&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FFFFFF)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle&logoColor=FFFFFF)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=F72C1F)&nbsp;
+<!-- ## &#x1f4c8; GitHub Stats
 
-  
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhenye-na&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/Zhenye-Na">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhenye-na&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcoaslima&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/proxfield/Proxfield.Extensions.Caching.SQLite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=proxfield&repo=Proxfield.Extensions.Caching.SQLite&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+<!-- ## 👨‍💻 This week, I spent my time on:
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
