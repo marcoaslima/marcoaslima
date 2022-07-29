@@ -1,14 +1,13 @@
 # Hi I'm Marco 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcoaslima-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaslima/)](https://www.linkedin.com/in/marcoaslima/)
-[![Medium Badge](https://img.shields.io/badge/-@marcoaslima-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@marcoaslima)](https://medium.com/@marcoaslima)
+[![Medium Badge](https://img.shields.io/badge/-@marcoaslima-181616?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@marcoaslima)](https://medium.com/@marcoaslima)
 [![Website Badge](https://img.shields.io/badge/-marcoaslima.com-7AB900?style=flat&logo=Google-Chrome&logoColor=white&link=https://marcoaslima.com)](https://marcoaslima.com)
-[![Twitter Badge](https://img.shields.io/badge/-@marcoaslima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
 [![Instagram Badge](https://img.shields.io/badge/-@marcoaslima-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/marcoaslima/)](https://instagram.com/marcoaslima)
 [![Gmail Badge](https://img.shields.io/badge/-marcoaslima-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marco@proxfield.com)](mailto:marco@proxfield.com)
 
-[![Website Badge](https://img.shields.io/badge/-proxfield.com-323232?style=flat&logo=Google-Chrome&logoColor=white&link=https://proxfield.com)](https://proxfield.com)
-[![Website Badge](https://img.shields.io/badge/-proxfield-323232?style=flat&logo=Github&logoColor=white&link=https://https://github.com/proxfield)](https://github.com/proxfield)
+[![Website Badge](https://img.shields.io/badge/-proxfield.com-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://proxfield.com)](https://proxfield.com)
+[![Website Badge](https://img.shields.io/badge/-proxfield-000000?style=flat&logo=Github&logoColor=white&link=https://https://github.com/proxfield)](https://github.com/proxfield)
 
 Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com/proxfield), from Brazil. I am current working on @mcdcorp, and have previously developed for @SomosEducacao, @BTP, @WilsonSons. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/marcoaslima/)!
 
