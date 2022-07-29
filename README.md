@@ -2,10 +2,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcoaslima-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaslima/)](https://www.linkedin.com/in/marcoaslima/)
 [![Medium Badge](https://img.shields.io/badge/-@marcoaslima-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@marcoaslima)](https://medium.com/@marcoaslima)
-[![Website Badge](https://img.shields.io/badge/-marcoaslima.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://marcoaslima.com)](https://marcoaslima.com)
+[![Website Badge](https://img.shields.io/badge/-marcoaslima.com-7AB900?style=flat&logo=Google-Chrome&logoColor=white&link=https://marcoaslima.com)](https://marcoaslima.com)
 [![Twitter Badge](https://img.shields.io/badge/-@marcoaslima-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
-[![Instagram Badge](https://img.shields.io/badge/-@marcoaslima-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/marcoaslima)
+[![Instagram Badge](https://img.shields.io/badge/-@marcoaslima-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/marcoaslima/)](https://instagram.com/marcoaslima)
 [![Gmail Badge](https://img.shields.io/badge/-marcoaslima-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marco@proxfield.com)](mailto:marco@proxfield.com)
+
+[![Website Badge](https://img.shields.io/badge/-proxfield.com-323232?style=flat&logo=Google-Chrome&logoColor=white&link=https://proxfield.com)](https://proxfield.com)
+[![Website Badge](https://img.shields.io/badge/-proxfield-323232?style=flat&logo=Github&logoColor=white&link=https://https://github.com/proxfield)](https://github.com/proxfield)
 
 Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com/proxfield), from Brazil. I am current working on @mcdcorp, and have previously developed for @SomosEducacao, @BTP, @WilsonSons. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/marcoaslima/)!
 
@@ -34,10 +37,12 @@ Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com
 
 <img align="left" src="assets/postgresql.svg" alt="postgresql" height="42px" style="max-width: 42px; padding: 10px;"/>
 
+<img align="left" src="assets/mysql.svg" alt="postgresql" height="42px" style="max-width: 42px; padding: 10px;"/>
+
 <br>
 <br>
 
- ## GitHub Stats
+ ## 👨‍💻 GitHub Stats
 
 <a href="https://github.com/marcoaslima/marcoaslima">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaslima&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
@@ -57,7 +62,3 @@ Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com
 <a href="https://github.com/proxfield/Proxfield.Extensions.Caching.SQLite">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=proxfield&repo=Proxfield.Extensions.Caching.SQLite&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
-
-<!-- ## 👨‍💻 This week, I spent my time on:
-
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
