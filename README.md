@@ -3,9 +3,7 @@
 
 <a href="https://www.marcoaslima.com"><img src="https://img.shields.io/badge/-marcoaslima.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/marcoaslima"><img src="https://img.shields.io/badge/-Marco%20Aurélio-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contato@marcoaslima.com"><img src="https://img.shields.io/badge/-contato@marcoaslima.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<!--<a href="https://instagram.com/soumarcoaslima"><img src="https://img.shields.io/badge/-@marckdx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>-->
-<!--<a href="https://facebook.com/soumarcoaslima"><img src="https://img.shields.io/badge/-@marckdx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>-->
+<a href="mailto:marco@proxfield.com"><img src="https://img.shields.io/badge/-marco@proxfield.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
  ### 👨🏻‍💻 &nbsp;A Little bit About Myself
  
