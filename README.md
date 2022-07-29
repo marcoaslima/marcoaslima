@@ -9,7 +9,7 @@
 [![Website Badge](https://img.shields.io/badge/-proxfield.com-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://proxfield.com)](https://proxfield.com)
 [![Website Badge](https://img.shields.io/badge/-proxfield-000000?style=flat&logo=Github&logoColor=white&link=https://https://github.com/proxfield)](https://github.com/proxfield)
 
-Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com/proxfield), from Brazil. I am current working on @mcdcorp, and have previously developed for @SomosEducacao, @BTP, @WilsonSons. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/marcoaslima/)!
+Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com/proxfield), from Brazil. I am current working on @mcdcorp projects, and have previously developed for @SomosEducacao, @BTP, @WilsonSons. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/marcoaslima/)!
 
 ## 🔧 Technologies & Tools
 
