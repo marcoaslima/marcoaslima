@@ -14,6 +14,7 @@ Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com
 
 ## 🔧 Technologies & Tools
 
+I have worked with a lot of technology the past couple of years mainly the ones described bellow.
 
 <img align="left" src="assets/linux.svg" alt="linux" height="42px" style="max-width: 42px; padding: 10px;"/>
 
@@ -43,6 +44,8 @@ Welcome to my profile! I'm a software developer,  [thinkerer](https://github.com
 <br>
 
  ## 👨‍💻 GitHub Stats
+
+These statuses, are a bit deceiving, I have worked a lot on DotNet latelly, but on most of the projects were closed source, or are present in a corporate account rather than this public one.
 
 <a href="https://github.com/marcoaslima/marcoaslima">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaslima&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
