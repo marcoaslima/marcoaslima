@@ -25,8 +25,6 @@ I have worked with a lot of technology the past couple of years mainly the ones 
 
 <img align="left" src="assets/laravel.svg" alt="laravel" height="42px" style="max-width: 42px; padding: 10px;"/>
 
-<img align="left" src="assets/github.svg" alt="github" height="42px" style="max-width: 42px; padding: 10px;"/>
-
 <img align="left" src="assets/rabbitmq.svg" alt="rabbitmq" height="42px" style="max-width: 42px; padding: 10px;"/>
 
 <img align="left" src="assets/javascript.svg" alt="javascript" height="42px" style="max-width: 42px; padding: 10px;"/>
