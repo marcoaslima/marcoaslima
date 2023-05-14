@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marcoaslima-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaslima/)](https://www.linkedin.com/in/marcoaslima/)
 [![Medium Badge](https://img.shields.io/badge/-@marcoaslima-181616?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@marcoaslima)](https://medium.com/@marcoaslima)
 [![Website Badge](https://img.shields.io/badge/-marcoaslima.com-7AB900?style=flat&logo=Google-Chrome&logoColor=white&link=https://marcoaslima.com)](https://marcoaslima.com)
-[![Instagram Badge](https://img.shields.io/badge/-@marcoaslima-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/marcoaslima/)](https://instagram.com/marcoaslima)
 [![Gmail Badge](https://img.shields.io/badge/-marcoaslima-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marco@proxfield.com)](mailto:marco@proxfield.com)
 
 [![Website Badge](https://img.shields.io/badge/-proxfield.com-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://proxfield.com)](https://proxfield.com)
