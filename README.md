@@ -1,7 +1,6 @@
 # Hi I'm Marco 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-marcoaslima-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaslima/)](https://www.linkedin.com/in/marcoaslima/)
-[![Medium Badge](https://img.shields.io/badge/-@marcoaslima-181616?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@marcoaslima)](https://medium.com/@marcoaslima)
 [![Website Badge](https://img.shields.io/badge/-marcoaslima.com-7AB900?style=flat&logo=Google-Chrome&logoColor=white&link=https://marcoaslima.com)](https://marcoaslima.com)
 [![Gmail Badge](https://img.shields.io/badge/-marcoaslima-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:marco@proxfield.com)](mailto:marco@proxfield.com)
 
@@ -22,7 +21,7 @@ I have worked with a lot of technology the past couple of years mainly the ones 
 
 <img align="left" src="assets/csharp.svg" alt="csharp" height="42px" style="max-width: 42px; padding: 10px;"/>
 
-<img align="left" src="assets/laravel.svg" alt="laravel" height="42px" style="max-width: 42px; padding: 10px;"/>
+<!-- <img align="left" src="assets/laravel.svg" alt="laravel" height="42px" style="max-width: 42px; padding: 10px;"/> -->
 
 <img align="left" src="assets/rabbitmq.svg" alt="rabbitmq" height="42px" style="max-width: 42px; padding: 10px;"/>
 
@@ -34,7 +33,7 @@ I have worked with a lot of technology the past couple of years mainly the ones 
 
 <img align="left" src="assets/postgresql.svg" alt="postgresql" height="42px" style="max-width: 42px; padding: 10px;"/>
 
-<img align="left" src="assets/mysql.svg" alt="postgresql" height="42px" style="max-width: 42px; padding: 10px;"/>
+<!-- <img align="left" src="assets/mysql.svg" alt="postgresql" height="42px" style="max-width: 42px; padding: 10px;"/> -->
 
 <br>
 <br>
