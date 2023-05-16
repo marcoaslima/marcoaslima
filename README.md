@@ -16,9 +16,9 @@ I have worked with a lot of technology the past couple of years mainly the ones 
 
 <img align="left" src="assets/linux.svg" alt="linux" height="42px" style="max-width: 42px; padding: 10px;"/>
 
-<img align="left" src="assets/visual-studio-code.svg" alt="visual-studio-code" height="42px" style="max-width: 42px; padding: 10px;"/>
+<!-- <img align="left" src="assets/visual-studio-code.svg" alt="visual-studio-code" height="42px" style="max-width: 42px; padding: 10px;"/> -->
 
-<img align="left" src="assets/visualstudio.svg" alt="visualstudio" height="42px" style="max-width: 42px; padding: 10px;"/>
+<!-- <img align="left" src="assets/visualstudio.svg" alt="visualstudio" height="42px" style="max-width: 42px; padding: 10px;"/> -->
 
 <img align="left" src="assets/csharp.svg" alt="csharp" height="42px" style="max-width: 42px; padding: 10px;"/>
 
