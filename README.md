@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marcoaslima-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaslima/)](https://www.linkedin.com/in/marcoaslima/)
 [![Website Badge](https://img.shields.io/badge/-marcoaslima.com-7AB900?style=flat&logo=Google-Chrome&logoColor=white&link=https://marcoaslima.com)](https://marcoaslima.com)
 [![Twitter Badge](https://img.shields.io/badge/-_marcoaslima_-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/_marcoaslima_)](https://twitter.com/_marcoaslima_)
-[![Gmail Badge](https://img.shields.io/badge/-marcoaslima@proxfield.com-DB4437?style=flat&logo=Gmail&logoColor=white&link=mailto:marco@proxfield.com)](mailto:marco@proxfield.com)
+[![Gmail Badge](https://img.shields.io/badge/-marco@proxfield.com-DB4437?style=flat&logo=Gmail&logoColor=white&link=mailto:marco@proxfield.com)](mailto:marco@proxfield.com)
 
 [![Website Badge](https://img.shields.io/badge/-proxfield.com-000000?style=flat&logo=Google-Chrome&logoColor=white&link=https://proxfield.com)](https://proxfield.com)
 [![Website Badge](https://img.shields.io/badge/-proxfield-000000?style=flat&logo=Github&logoColor=white&link=https://https://github.com/proxfield)](https://github.com/proxfield)
